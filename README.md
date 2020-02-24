@@ -6,3 +6,4 @@ Time of posting of my picture on feed ,Locations I travelled ,Good day to post s
 
 In the second dashboard i've published the analysis of pretty famous dataset boston housing
 
+Well,in the third Dashboard I've made an attempt to explain FDI in India.
